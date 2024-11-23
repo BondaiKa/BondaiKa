@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c37cf30.css",
-    "main.js": "/static/js/main.9e62ed66.js",
-    "static/media/profile.jpg": "/static/media/profile.7ecf6cf8ea984d79b16c.jpg",
-    "index.html": "/index.html",
-    "main.7c37cf30.css.map": "/static/css/main.7c37cf30.css.map",
-    "main.9e62ed66.js.map": "/static/js/main.9e62ed66.js.map"
+    "main.css": "/BondaiKa/static/css/main.7c37cf30.css",
+    "main.js": "/BondaiKa/static/js/main.23cbe6d4.js",
+    "static/media/profile.jpg": "/BondaiKa/static/media/profile.7ecf6cf8ea984d79b16c.jpg",
+    "index.html": "/BondaiKa/index.html",
+    "main.7c37cf30.css.map": "/BondaiKa/static/css/main.7c37cf30.css.map",
+    "main.23cbe6d4.js.map": "/BondaiKa/static/js/main.23cbe6d4.js.map"
   },
   "entrypoints": [
     "static/css/main.7c37cf30.css",
-    "static/js/main.9e62ed66.js"
+    "static/js/main.23cbe6d4.js"
   ]
 }
