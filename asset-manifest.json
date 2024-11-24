@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/BondaiKa/static/css/main.bb3f72f0.chunk.css",
-    "main.js": "/BondaiKa/static/js/main.11d3dcd4.chunk.js",
-    "main.js.map": "/BondaiKa/static/js/main.11d3dcd4.chunk.js.map",
+    "main.css": "/BondaiKa/static/css/main.d262b053.chunk.css",
+    "main.js": "/BondaiKa/static/js/main.e10b421e.chunk.js",
+    "main.js.map": "/BondaiKa/static/js/main.e10b421e.chunk.js.map",
     "runtime-main.js": "/BondaiKa/static/js/runtime-main.4c87631d.js",
     "runtime-main.js.map": "/BondaiKa/static/js/runtime-main.4c87631d.js.map",
     "static/js/2.644965e9.chunk.js": "/BondaiKa/static/js/2.644965e9.chunk.js",
     "static/js/2.644965e9.chunk.js.map": "/BondaiKa/static/js/2.644965e9.chunk.js.map",
     "index.html": "/BondaiKa/index.html",
-    "precache-manifest.e897624f9f5515ca03e63f5a9fb72373.js": "/BondaiKa/precache-manifest.e897624f9f5515ca03e63f5a9fb72373.js",
+    "precache-manifest.e43e8e80dfff88769cedcd1df6b12fc6.js": "/BondaiKa/precache-manifest.e43e8e80dfff88769cedcd1df6b12fc6.js",
     "service-worker.js": "/BondaiKa/service-worker.js",
-    "static/css/main.bb3f72f0.chunk.css.map": "/BondaiKa/static/css/main.bb3f72f0.chunk.css.map",
+    "static/css/main.d262b053.chunk.css.map": "/BondaiKa/static/css/main.d262b053.chunk.css.map",
     "static/js/2.644965e9.chunk.js.LICENSE.txt": "/BondaiKa/static/js/2.644965e9.chunk.js.LICENSE.txt",
     "static/media/profile.jpg": "/BondaiKa/static/media/profile.ee05025c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4c87631d.js",
     "static/js/2.644965e9.chunk.js",
-    "static/css/main.bb3f72f0.chunk.css",
-    "static/js/main.11d3dcd4.chunk.js"
+    "static/css/main.d262b053.chunk.css",
+    "static/js/main.e10b421e.chunk.js"
   ]
 }

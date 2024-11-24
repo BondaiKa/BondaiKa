@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BondaiKa/precache-manifest.e897624f9f5515ca03e63f5a9fb72373.js"
+  "/BondaiKa/precache-manifest.e43e8e80dfff88769cedcd1df6b12fc6.js"
 );
 
 self.addEventListener('message', (event) => {
