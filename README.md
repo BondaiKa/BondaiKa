@@ -3,14 +3,8 @@
 🌟 Dive into my projects and feel free to explore what I’m passionate about. You can also visit my [personal website](https://bondaika.github.io/BondaiKa/) to know more about me and my work!
 
 ## 🚀 About Me  
-
-💡 **Who am I?**  
 I’m a **Data Engineer Expert** with a solid foundation as a **Backend Developer** and some experience in **Frontend Development**. I thrive on building robust data pipelines and optimizing systems for scalability and efficiency.
 
-🎯 **Current Focus:**  
-- Creating my own website and blog.
-
-  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apache-spark&logoColor=black)
@@ -23,6 +17,9 @@ I’m a **Data Engineer Expert** with a solid foundation as a **Backend Develope
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## 🎯 **Current Focus:**  
+- Creating my own website and blog.
 
 ## 📊 My GitHub Stats  
 
