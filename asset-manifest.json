@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/BondaiKa/static/css/main.b86727d3.chunk.css",
-    "main.js": "/BondaiKa/static/js/main.20bf24f0.chunk.js",
-    "main.js.map": "/BondaiKa/static/js/main.20bf24f0.chunk.js.map",
+    "main.js": "/BondaiKa/static/js/main.7cbee98f.chunk.js",
+    "main.js.map": "/BondaiKa/static/js/main.7cbee98f.chunk.js.map",
     "runtime-main.js": "/BondaiKa/static/js/runtime-main.4c87631d.js",
     "runtime-main.js.map": "/BondaiKa/static/js/runtime-main.4c87631d.js.map",
-    "static/js/2.792d920c.chunk.js": "/BondaiKa/static/js/2.792d920c.chunk.js",
-    "static/js/2.792d920c.chunk.js.map": "/BondaiKa/static/js/2.792d920c.chunk.js.map",
+    "static/js/2.dbbef260.chunk.js": "/BondaiKa/static/js/2.dbbef260.chunk.js",
+    "static/js/2.dbbef260.chunk.js.map": "/BondaiKa/static/js/2.dbbef260.chunk.js.map",
     "index.html": "/BondaiKa/index.html",
-    "precache-manifest.40eb139037d8b6d842cad030228d68d0.js": "/BondaiKa/precache-manifest.40eb139037d8b6d842cad030228d68d0.js",
+    "precache-manifest.0b7563bb7c82d1a524c86e3bfdc2321e.js": "/BondaiKa/precache-manifest.0b7563bb7c82d1a524c86e3bfdc2321e.js",
     "service-worker.js": "/BondaiKa/service-worker.js",
     "static/css/main.b86727d3.chunk.css.map": "/BondaiKa/static/css/main.b86727d3.chunk.css.map",
-    "static/js/2.792d920c.chunk.js.LICENSE.txt": "/BondaiKa/static/js/2.792d920c.chunk.js.LICENSE.txt",
-    "static/media/profile.jpg": "/BondaiKa/static/media/profile.ee05025c.jpg"
+    "static/js/2.dbbef260.chunk.js.LICENSE.txt": "/BondaiKa/static/js/2.dbbef260.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/BondaiKa/static/media/profile.ee05025c.jpg",
+    "static/media/resume.pdf": "/BondaiKa/static/media/resume.90cb7057.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.4c87631d.js",
-    "static/js/2.792d920c.chunk.js",
+    "static/js/2.dbbef260.chunk.js",
     "static/css/main.b86727d3.chunk.css",
-    "static/js/main.20bf24f0.chunk.js"
+    "static/js/main.7cbee98f.chunk.js"
   ]
 }
