@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/BondaiKa/static/css/main.d262b053.chunk.css",
-    "main.js": "/BondaiKa/static/js/main.e10b421e.chunk.js",
-    "main.js.map": "/BondaiKa/static/js/main.e10b421e.chunk.js.map",
+    "main.css": "/BondaiKa/static/css/main.b86727d3.chunk.css",
+    "main.js": "/BondaiKa/static/js/main.20bf24f0.chunk.js",
+    "main.js.map": "/BondaiKa/static/js/main.20bf24f0.chunk.js.map",
     "runtime-main.js": "/BondaiKa/static/js/runtime-main.4c87631d.js",
     "runtime-main.js.map": "/BondaiKa/static/js/runtime-main.4c87631d.js.map",
-    "static/js/2.644965e9.chunk.js": "/BondaiKa/static/js/2.644965e9.chunk.js",
-    "static/js/2.644965e9.chunk.js.map": "/BondaiKa/static/js/2.644965e9.chunk.js.map",
+    "static/js/2.792d920c.chunk.js": "/BondaiKa/static/js/2.792d920c.chunk.js",
+    "static/js/2.792d920c.chunk.js.map": "/BondaiKa/static/js/2.792d920c.chunk.js.map",
     "index.html": "/BondaiKa/index.html",
-    "precache-manifest.e43e8e80dfff88769cedcd1df6b12fc6.js": "/BondaiKa/precache-manifest.e43e8e80dfff88769cedcd1df6b12fc6.js",
+    "precache-manifest.40eb139037d8b6d842cad030228d68d0.js": "/BondaiKa/precache-manifest.40eb139037d8b6d842cad030228d68d0.js",
     "service-worker.js": "/BondaiKa/service-worker.js",
-    "static/css/main.d262b053.chunk.css.map": "/BondaiKa/static/css/main.d262b053.chunk.css.map",
-    "static/js/2.644965e9.chunk.js.LICENSE.txt": "/BondaiKa/static/js/2.644965e9.chunk.js.LICENSE.txt",
+    "static/css/main.b86727d3.chunk.css.map": "/BondaiKa/static/css/main.b86727d3.chunk.css.map",
+    "static/js/2.792d920c.chunk.js.LICENSE.txt": "/BondaiKa/static/js/2.792d920c.chunk.js.LICENSE.txt",
     "static/media/profile.jpg": "/BondaiKa/static/media/profile.ee05025c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4c87631d.js",
-    "static/js/2.644965e9.chunk.js",
-    "static/css/main.d262b053.chunk.css",
-    "static/js/main.e10b421e.chunk.js"
+    "static/js/2.792d920c.chunk.js",
+    "static/css/main.b86727d3.chunk.css",
+    "static/js/main.20bf24f0.chunk.js"
   ]
 }

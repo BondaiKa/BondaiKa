@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8d0ad27386dd349c61737d9bf40bf00",
+    "revision": "ceeaed5490e9c2e8223b67731253f362",
     "url": "/BondaiKa/index.html"
   },
   {
-    "revision": "0e7f2acc8a669d920b15",
-    "url": "/BondaiKa/static/css/main.d262b053.chunk.css"
+    "revision": "3ead5bf1d3cef7877983",
+    "url": "/BondaiKa/static/css/main.b86727d3.chunk.css"
   },
   {
-    "revision": "a68437ac6590d773dc71",
-    "url": "/BondaiKa/static/js/2.644965e9.chunk.js"
+    "revision": "be406da755d1726df1b1",
+    "url": "/BondaiKa/static/js/2.792d920c.chunk.js"
   },
   {
     "revision": "075ee0fe56affc8020645735366f8cbd",
-    "url": "/BondaiKa/static/js/2.644965e9.chunk.js.LICENSE.txt"
+    "url": "/BondaiKa/static/js/2.792d920c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e7f2acc8a669d920b15",
-    "url": "/BondaiKa/static/js/main.e10b421e.chunk.js"
+    "revision": "3ead5bf1d3cef7877983",
+    "url": "/BondaiKa/static/js/main.20bf24f0.chunk.js"
   },
   {
     "revision": "9f1fa31bbe0fb15e08e0",
