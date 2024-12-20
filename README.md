@@ -1,6 +1,6 @@
 # 👋 Hey there! Welcome to my GitHub!  
 
-🌟 Dive into my projects and feel free to explore what I’m passionate about. You can also visit my [personal website](https://bondaika.github.io/BondaiKa/) to know more about me and my work!
+🌟 Dive into my projects and feel free to explore what I’m passionate about. You can also visit my personal website [bondaika.com/about](https://bondaika.com/about) to know more about me and my work!
 
 ## 🚀 About Me  
 I’m a **Data Engineer Expert** with a solid foundation as a **Backend Developer** and some experience in **Frontend Development**. I thrive on building robust data pipelines and optimizing systems for scalability and efficiency.
