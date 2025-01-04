@@ -19,7 +19,8 @@ I’m a **Data Engineer Expert** with a solid foundation as a **Backend Develope
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🎯 **Current Focus:**  
-- Extending my website and start writting programming blog.
+- Extending my [programming blog](https://bondaika.com).
+- Learning `AWS`
 
 ## 📊 My GitHub Stats  
 
